@@ -11,7 +11,7 @@ import SwiftUI
 struct Jan_KenMonsterApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }

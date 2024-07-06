@@ -1,0 +1,18 @@
+{
+  "MLModelVersionStringKey" : "8.2.18",
+  "MLModelDescriptionKey" : "Ultralytics best model trained on \/content\/Rock Paper Scissor v4i Yolov8\/data.yaml",
+  "MLModelCreatorDefinedKey" : {
+    "com.github.apple.coremltools.version" : "7.2",
+    "stride" : "32",
+    "com.github.apple.coremltools.source_dialect" : "TorchScript",
+    "docs" : "https:\/\/docs.ultralytics.com",
+    "task" : "detect",
+    "com.github.apple.coremltools.source" : "torch==2.3.0+cu121",
+    "imgsz" : "[640, 640]",
+    "date" : "2024-05-22T05:58:21.394573",
+    "batch" : "1",
+    "names" : "{0: 'Paper', 1: 'Rock', 2: 'Scissor'}"
+  },
+  "MLModelAuthorKey" : "Ultralytics",
+  "MLModelLicenseKey" : "AGPL-3.0 License (https:\/\/ultralytics.com\/license)"
+}
